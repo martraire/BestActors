@@ -63,7 +63,7 @@ header h1
 
 .color
 {
-    position; absolute;
+    position: absolute;
     left: 140px;
     width: 140px;
     height: 500px;
