@@ -25,7 +25,8 @@ $(function(){
           
       });
     },
-        
+    
+    
     validIndex = function(indexToCheck){
         return (indexToCheck >= 0) && (indexToCheck < totalMainMenuItems)
     },
